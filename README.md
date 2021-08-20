@@ -9,8 +9,3 @@
 </div>
   
   ##
- 
-<div> 
-  ![Snake animation](https://github.com/rafinha-96)
- 
-</div>
